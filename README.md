@@ -10,7 +10,7 @@ I am a passionate **DevOps Engineer** with experience in **Terraform, AWS, CI/CD
 
 ## 🔧 Technologies & Tools
 
-### 🛠 DevOps & Cloud
+### 🛠 DevOps & Cloud ☁️
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
