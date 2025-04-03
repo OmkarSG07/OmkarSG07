@@ -29,9 +29,9 @@ I am a passionate **DevOps Engineer** with experience in **Terraform, AWS, CI/CD
 
 ## 📌 Pinned Projects
 
-🔹 [**CI/CD Pipeline with AWS CodePipeline & GitHub Actions**](https://github.com/OmkarSG07/CI-CD-Pipeline) - Automating deployments with AWS & GitHub Actions.  
-🔹 [**Kubernetes Deployment with Terraform & Ansible**](https://github.com/OmkarSG07/K8s-Terraform-Ansible) - Infrastructure as Code for Kubernetes setup.  
-🔹 [**AWS S3 Static Website Hosting**](https://github.com/OmkarSG07/AWS-S3-Website) - Hosting a static website with AWS S3.  
+🔹 [**CI/CD Pipeline with AWS CodePipeline & GitHub Actions**](https://github.com/OmkarSG07/Flask-CI-CD) - Automating deployments with AWS & GitHub Actions.  
+🔹 [**Kubernetes Deployment with Terraform & Ansible**](https://github.com/OmkarSG07/Terraform) - Infrastructure as Code for Kubernetes setup.  
+🔹 [**AWS S3 Static Website Hosting**](https://github.com/OmkarSG07/Python/tree/main/AWS_Simple_Projects/(Done)%20S3%20Bucket%20Static%20Website%20Hosting) - Hosting a static website with AWS S3.  
 
 ---
 
@@ -43,9 +43,9 @@ I'm actively looking for **open-source projects** related to DevOps, Cloud, and 
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmkarSG07-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omkargengane-devops)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmkarGengane-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omkargengane-devops)  
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarSG07-black?style=for-the-badge&logo=github)](https://github.com/OmkarSG07)  
-[![Email](https://img.shields.io/badge/Email-omkar.devops%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omkarsg.7781@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-omkarsg.7781%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omkarsg.7781@gmail.com)  
 
 ---
 
