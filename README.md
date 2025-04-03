@@ -43,7 +43,7 @@ I'm actively looking for **open-source projects** related to DevOps, Cloud, and 
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmkarGengane-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omkargengane-devops)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmkarGengane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkargengane/)  
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarSG07-black?style=for-the-badge&logo=github)](https://github.com/OmkarSG07)  
 [![Email](https://img.shields.io/badge/Email-omkarsg.7781%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:omkarsg.7781@gmail.com)  
 
