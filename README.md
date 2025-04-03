@@ -1,7 +1,5 @@
 # Hi there, I'm Omkar 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/77334130/189199489-021a585a-05e0-4399-979b-cf9977d90207.png)
-
 ## 🚀 About Me
 
 🎯 DevOps Enthusiast | ☁️ Cloud & Automation | 🔧 Infrastructure as Code (IaC) | 🐳 Docker & Kubernetes
