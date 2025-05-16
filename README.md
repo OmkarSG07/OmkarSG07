@@ -29,7 +29,7 @@ I am a passionate **DevOps Engineer** with experience in **Terraform, AWS, CI/CD
 
 ## 📌 Pinned Projects
 
-🔹 [**CI/CD Pipeline with AWS CodePipeline & GitHub Actions**](https://github.com/OmkarSG07/Flask-CI-CD) - Automating deployments with AWS & GitHub Actions.  
+🔹 [**CI/CD Pipeline of Flask app with AWS, Terraform, Ansible & GitHub Actions**](https://github.com/OmkarSG07/Flask-CI-CD) - Automating deployments with AWS & GitHub Actions.  
 🔹 [**Kubernetes Deployment with Terraform & Ansible**](https://github.com/OmkarSG07/Terraform) - Infrastructure as Code for Kubernetes setup.  
 🔹 [**AWS S3 Static Website Hosting**](https://github.com/OmkarSG07/Python/tree/main/AWS_Simple_Projects/(Done)%20S3%20Bucket%20Static%20Website%20Hosting) - Hosting a static website with AWS S3.  
 
